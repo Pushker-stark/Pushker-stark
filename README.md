@@ -42,21 +42,9 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
 <code><img  height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="ESLint"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum"></code>
-<code><img height="50" src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg" alt="Ganache" ></code>
-<code><img height="50" src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.jpg" alt="Web3.js"></code>
-<code><img height="50" src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="Truffle"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab"></code>
+
 </p><br>
-<h1 align="center">✨ Catch Me At ✨</h1>
+<!-- <h1 align="center">✨ Catch Me At ✨</h1>
 <p align="center">
 <br>
 <a href="https://www.facebook.com/kkvanonymous/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
@@ -65,7 +53,7 @@
 <a href="mailto:kunal.kumar.verma2001@gmail.com?subject=Hola%20Kunal"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://twitter.com/kkvanonymous/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://Pushker-stark.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pushker-stark"><br>
