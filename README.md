@@ -1,5 +1,5 @@
 <!-- div width="100%" style="background:-webkit-linear-gradient(left, #ea6161, #ffc64d, #fffc4d, #52fa5a, #4dfcff, #c64dff);text-align: center;font-family: inherit;font-weight: bold;max-width: 782px;margin-bottom: 20px;align-content: center;padding: 10px;"> 👋 HI THERE !</div --><!-- TODO: when it will be possible on GitHub -->
-
+[![@pushker's Holopin board](https://holopin.me/pushker)](https://holopin.io/@pushker)
 <img width="782px" src="https://raw.githubusercontent.com/bilardi/bilardi/master/header.png" />
 <div>
 <p align="center">
