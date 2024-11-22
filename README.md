@@ -42,6 +42,8 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
 <code><img  height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></code>
 
 </p><br>
 <!-- <h1 align="center">✨ Catch Me At ✨</h1>
